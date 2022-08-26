@@ -1,0 +1,15 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #BAF5F0;
+  list-style: none;
+  padding: 0 25% 0 25%;
+  height: 7vh;
+}
