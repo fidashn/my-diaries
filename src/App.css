@@ -13,3 +13,16 @@
   padding: 0 25% 0 25%;
   height: 7vh;
 }
+
+.btn{
+  background-color: transparent;
+  border: 2px #D17AE5 solid;
+  border-radius: 25px;
+  width: 100px;
+  height: 30px;
+}
+
+.btn:hover {
+  cursor: pointer;
+  transform: scale(1.1);
+}

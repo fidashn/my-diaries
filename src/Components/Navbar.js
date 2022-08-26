@@ -7,6 +7,8 @@ function Navbar() {
       <li>Nav item</li>
       <li>Nav item</li>
       <li>Nav item</li>
+      <button className='sign-inup btn'>Sign Up</button>
+      <button className='sign-in btn'>Sign In</button>
     </div>
   )
 }
