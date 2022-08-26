@@ -34,3 +34,11 @@
   cursor: pointer;
   transform: scale(1.1);
 }
+
+.footer {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #E889E5;
+  height: 7vh;
+}
