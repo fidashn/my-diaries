@@ -2,7 +2,7 @@ import React from 'react'
 
 function SignIn() {
   return (
-    <div>
+    <div className='sign-in-bg'>
     <form action="" className='signInForm'>
     Email:
     <input type="text" placeholder="Email.."/>
