@@ -51,3 +51,18 @@
   background-color: #F9FCC9;
   height: 100vh;
 }
+
+.signUpForm, .signInForm{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 100px 0 100px 0;
+  width: 500px;
+  height: 500px;
+  background-color: rgb(8, 8, 8);
+  opacity: 0.8;
+  border-radius: 40px;
+  border: 3px  aquamarine solid;
+  }
+  
